@@ -1,0 +1,8 @@
+@keyframes bar-fadeIn {
+  0% {opacity: .2}
+  100% {opacity: .9}
+}
+
+.bar .bar-blink {
+  animation: bar-fadeIn 1s ease 0s infinite alternate;
+}
