@@ -4,8 +4,8 @@
 [![devDependencies Status](https://david-dm.org/weseek/growi-plugin-boilerplate/dev-status.svg)](https://david-dm.org/weseek/growi-plugin-boilerplate?type=dev)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
-Install
---------
+Install to use custom tag examples
+------------------------------
 
 1. install plugin
 
