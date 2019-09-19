@@ -50,3 +50,8 @@ $bar()
 
 (nothing)
 
+
+How to develop GROWI Plugins?
+--------------------------
+
+Read https://docs.growi.org/dev/plugin/
